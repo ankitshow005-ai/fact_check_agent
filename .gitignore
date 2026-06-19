@@ -1,0 +1,11 @@
+# 1. Protect your secret keys
+.env
+
+# 2. Hide python's automatic cache folders
+__pycache__/
+
+# 3. Ignore your heavy local virtual environment
+fact_env/
+
+# 4. Keep your uploaded test documents private
+doc_files/
